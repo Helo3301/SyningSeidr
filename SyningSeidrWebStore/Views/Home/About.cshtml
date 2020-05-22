@@ -1,7 +1,26 @@
 ﻿@{
-    ViewData["Title"] = "About";
+	ViewData["Title"] = "About";
 }
-<h2>@ViewData["Title"]</h2>
-<h3>@ViewData["Message"]</h3>
 
-<p>Use this area to provide additional information.</p>
+<!-- One -->
+<body style="background-color:#f6db93">
+<section class="banner style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right">
+	<div class="content">
+		<h1>Syning Seidr</h1>
+		<p class="major"> Hand made and custom modern and medieval clothing designs. <p>
+			<ul class="actions stacked">
+				<!--<li><a href="@Html.ActionLink("Gallery", "Gallery", "Home")" >See Works</a></li>-->
+
+				<li class="button big wide smooth-scroll-middle" style="background-image: radial-gradient(#209224, #0e4010 );margin-bottom:10px" >@Html.ActionLink("See Works", "Gallery", "Home")</li>
+				<li class="button big wide smooth-scroll"  style="background-image: radial-gradient(#209224, #0e4010 );margin-bottom:10px">@Html.ActionLink("View Store", "Garb", "Home")</li>
+				<li class="button big wide smooth-scroll-middle" style="background-image: radial-gradient(#209224, #0e4010 );margin-bottom:10px">@Html.ActionLink("Request a Custom Order", "CustomOrders", "Home")</li>
+			</ul>
+	</div>
+	<div class="image">
+		<!--<img src="images/banner.jpg" alt="" />-->
+		<a href="https://placeholder.com/"><img src=" https://via.placeholder.com/900" /></a>
+
+
+	</div>
+</section>
+</body>
