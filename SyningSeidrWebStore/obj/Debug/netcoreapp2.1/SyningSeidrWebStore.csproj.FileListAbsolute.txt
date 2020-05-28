@@ -68,3 +68,38 @@ C:\Users\carve\Desktop\SyningSeidr\SyningSeidrWebStore\obj\Debug\netcoreapp2.1\S
 C:\Users\carve\Desktop\SyningSeidr\SyningSeidrWebStore\obj\Debug\netcoreapp2.1\SyningSeidrWebStore.dll
 C:\Users\carve\Desktop\SyningSeidr\SyningSeidrWebStore\obj\Debug\netcoreapp2.1\SyningSeidrWebStore.pdb
 C:\Users\carve\Desktop\SyningSeidr\SyningSeidrWebStore\obj\Debug\netcoreapp2.1\SyningSeidrWebStore.csproj.CopyComplete
+C:\Users\Tim Allen\Desktop\SyningSeidrWebStore\SyningSeidrWebStore\bin\Debug\netcoreapp2.1\SyningSeidrWebStore.deps.json
+C:\Users\Tim Allen\Desktop\SyningSeidrWebStore\SyningSeidrWebStore\bin\Debug\netcoreapp2.1\SyningSeidrWebStore.runtimeconfig.json
+C:\Users\Tim Allen\Desktop\SyningSeidrWebStore\SyningSeidrWebStore\bin\Debug\netcoreapp2.1\SyningSeidrWebStore.runtimeconfig.dev.json
+C:\Users\Tim Allen\Desktop\SyningSeidrWebStore\SyningSeidrWebStore\bin\Debug\netcoreapp2.1\SyningSeidrWebStore.dll
+C:\Users\Tim Allen\Desktop\SyningSeidrWebStore\SyningSeidrWebStore\bin\Debug\netcoreapp2.1\SyningSeidrWebStore.pdb
+C:\Users\Tim Allen\Desktop\SyningSeidrWebStore\SyningSeidrWebStore\bin\Debug\netcoreapp2.1\SyningSeidrWebStore.Views.dll
+C:\Users\Tim Allen\Desktop\SyningSeidrWebStore\SyningSeidrWebStore\bin\Debug\netcoreapp2.1\SyningSeidrWebStore.Views.pdb
+C:\Users\Tim Allen\Desktop\SyningSeidrWebStore\SyningSeidrWebStore\obj\Debug\netcoreapp2.1\SyningSeidrWebStore.csprojAssemblyReference.cache
+C:\Users\Tim Allen\Desktop\SyningSeidrWebStore\SyningSeidrWebStore\obj\Debug\netcoreapp2.1\SyningSeidrWebStore.csproj.CoreCompileInputs.cache
+C:\Users\Tim Allen\Desktop\SyningSeidrWebStore\SyningSeidrWebStore\obj\Debug\netcoreapp2.1\SyningSeidrWebStore.RazorAssemblyInfo.cache
+C:\Users\Tim Allen\Desktop\SyningSeidrWebStore\SyningSeidrWebStore\obj\Debug\netcoreapp2.1\SyningSeidrWebStore.RazorAssemblyInfo.cs
+C:\Users\Tim Allen\Desktop\SyningSeidrWebStore\SyningSeidrWebStore\obj\Debug\netcoreapp2.1\SyningSeidrWebStore.AssemblyInfoInputs.cache
+C:\Users\Tim Allen\Desktop\SyningSeidrWebStore\SyningSeidrWebStore\obj\Debug\netcoreapp2.1\SyningSeidrWebStore.AssemblyInfo.cs
+C:\Users\Tim Allen\Desktop\SyningSeidrWebStore\SyningSeidrWebStore\obj\Debug\netcoreapp2.1\SyningSeidrWebStore.TagHelpers.input.cache
+C:\Users\Tim Allen\Desktop\SyningSeidrWebStore\SyningSeidrWebStore\obj\Debug\netcoreapp2.1\SyningSeidrWebStore.TagHelpers.output.cache
+C:\Users\Tim Allen\Desktop\SyningSeidrWebStore\SyningSeidrWebStore\obj\Debug\netcoreapp2.1\SyningSeidrWebStore.RazorCoreGenerate.cache
+C:\Users\Tim Allen\Desktop\SyningSeidrWebStore\SyningSeidrWebStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Tim Allen\Desktop\SyningSeidrWebStore\SyningSeidrWebStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Tim Allen\Desktop\SyningSeidrWebStore\SyningSeidrWebStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\CustomOrders.g.cshtml.cs
+C:\Users\Tim Allen\Desktop\SyningSeidrWebStore\SyningSeidrWebStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Gallery.g.cshtml.cs
+C:\Users\Tim Allen\Desktop\SyningSeidrWebStore\SyningSeidrWebStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Garb.g.cshtml.cs
+C:\Users\Tim Allen\Desktop\SyningSeidrWebStore\SyningSeidrWebStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Tim Allen\Desktop\SyningSeidrWebStore\SyningSeidrWebStore\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Tim Allen\Desktop\SyningSeidrWebStore\SyningSeidrWebStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Tim Allen\Desktop\SyningSeidrWebStore\SyningSeidrWebStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Tim Allen\Desktop\SyningSeidrWebStore\SyningSeidrWebStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Tim Allen\Desktop\SyningSeidrWebStore\SyningSeidrWebStore\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Tim Allen\Desktop\SyningSeidrWebStore\SyningSeidrWebStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Tim Allen\Desktop\SyningSeidrWebStore\SyningSeidrWebStore\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Tim Allen\Desktop\SyningSeidrWebStore\SyningSeidrWebStore\obj\Debug\netcoreapp2.1\SyningSeidrWebStore.RazorTargetAssemblyInfo.cache
+C:\Users\Tim Allen\Desktop\SyningSeidrWebStore\SyningSeidrWebStore\obj\Debug\netcoreapp2.1\SyningSeidrWebStore.RazorTargetAssemblyInfo.cs
+C:\Users\Tim Allen\Desktop\SyningSeidrWebStore\SyningSeidrWebStore\obj\Debug\netcoreapp2.1\SyningSeidrWebStore.Views.pdb
+C:\Users\Tim Allen\Desktop\SyningSeidrWebStore\SyningSeidrWebStore\obj\Debug\netcoreapp2.1\SyningSeidrWebStore.dll
+C:\Users\Tim Allen\Desktop\SyningSeidrWebStore\SyningSeidrWebStore\obj\Debug\netcoreapp2.1\SyningSeidrWebStore.pdb
+C:\Users\Tim Allen\Desktop\SyningSeidrWebStore\SyningSeidrWebStore\obj\Debug\netcoreapp2.1\SyningSeidrWebStore.csproj.CopyComplete
